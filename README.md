@@ -97,7 +97,7 @@ The full DTAP benchmark environment (MCP servers, task fixtures, judge scripts) 
 
 This repository contains only the implementation of AIRGuard. The baseline defense methods compared in the paper are:
 
-- **ARGUS** — see [Phuong et al., 2025](https://arxiv.org/abs/2605.03378)
+- **ARGUS** — see [Weng et al., 2026](https://arxiv.org/abs/2605.03378)
 - **MELON** — see [Zhu et al., 2025](https://github.com/kaijiezhu11/MELON)
 
 To reproduce baseline comparisons, please refer to the original repositories of these methods.
