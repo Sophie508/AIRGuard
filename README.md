@@ -4,6 +4,10 @@ Contextual authority-risk control for LLM agent runtimes.
 
 AIRGuard is a runtime defense that combines authority context, resource trust labels, LLM-based risk simulation, and tiered enforcement to protect LLM agents from indirect prompt injection attacks via untrusted tool outputs.
 
+<p align="center">
+  <img src="assets/fig_pipeline.png" width="90%" alt="AIRGuard Pipeline Overview">
+</p>
+
 ## Repository Structure
 
 ```
